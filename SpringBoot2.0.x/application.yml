@@ -1,0 +1,4 @@
+graceful:
+    shutdown:
+        timeout:
+            seconds: 30
